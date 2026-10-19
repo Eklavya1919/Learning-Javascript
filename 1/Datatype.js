@@ -16,15 +16,3 @@ let ismarried = false
 
 // null is object 
 // undefined is undefined
-
-
-
-
-
-
-
-
-
-
-
-

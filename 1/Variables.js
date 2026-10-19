@@ -15,13 +15,3 @@ console.table([age, fri, fri2, tem])
 
 
 // prefer not to use var as it may cause problem in block scope and function scope 
-
-
-
-
-
-
-
-
-
-
