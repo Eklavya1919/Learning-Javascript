@@ -16,3 +16,25 @@ let ismarried = false
 
 // null is object 
 // undefined is undefined
+
+
+// Data types 
+ 
+/* Premitive ->
+String 
+Boolean
+Null
+Number
+Undefined
+Symbol
+BigInt
+*/
+
+/* Non premitive (Reference)
+Array
+Object
+Function
+*/
+
+// Just one more thing for strings
+console.log(`My name is ${name}`);
